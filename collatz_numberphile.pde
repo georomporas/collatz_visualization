@@ -2,6 +2,7 @@
 // https://thecodingtrain.com/CodingInTheCabana/002-collatz-conjecture.html
 // https://youtu.be/EYLWxwo1Ed8
 // inspired by: https://editor.p5js.org/cshep99/sketches/DtAf8BXc-
+// greatly inspired by: https://www.youtube.com/watch?v=LqKpkdRRLZw
 
 void setup() {
   size(1600,1000);

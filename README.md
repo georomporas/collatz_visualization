@@ -1,5 +1,5 @@
 # collatz_visualization
-A personal project that visualizes the collatz conjecture using the processing programming language made for the IP class of 2023.
+A personal project that visualizes the collatz conjecture using the processing programming language.
 
 collatz_feather
 ![image](https://github.com/georomporas/collatz_visualization/assets/146763073/3ea8e66e-db4c-40bc-86ad-7a54c69c05b5)

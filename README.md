@@ -1,9 +1,7 @@
 # collatz_visualization
 A personal project that visualizes the collatz conjecture using the processing programming language.
 
-original code by: [Daniel Shiffman](https://thecodingtrain.com/CodingInTheCabana/002-collatz-conjecture.html)  
-
-[Youtube video](https://youtu.be/EYLWxwo1Ed8)  
+original code by: [Daniel Shiffman](https://youtu.be/EYLWxwo1Ed8)    
 
 inspired by: [cshep99](https://editor.p5js.org/cshep99/sketches/DtAf8BXc-)  
 
